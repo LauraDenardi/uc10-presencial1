@@ -1,0 +1,23 @@
+{
+  "casa": [],
+  "cadastro": [
+    {
+      "email": "laura@tjdh.sd",
+      "cpf": "888888888888888",
+      "nome": "Laura Nunes",
+      "dataNasc": "2021-11-03",
+      "telefone": "235-298392",
+      "id": 1
+    },
+    {
+      "email": "laura@gugale.com.br",
+      "cpf": "43497538850",
+      "nome": "Laura Denardi",
+      "dataNasc": "2004-10-21",
+      "telefone": "997992110",
+      "id": 2
+    }
+  ],
+  "compra": [],
+  "evento": []
+}
